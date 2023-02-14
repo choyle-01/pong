@@ -17,9 +17,7 @@ Once python is installed run ```Pip install pygame ``` and everything will be se
 
 ## Visuals
 
-<video width="320" height="240" controls>
-  <source src="/visuals/pong.mp4" type="video/mp4">
-</video>
+[Video](https://drive.google.com/file/d/1I8znJyqzondQsoGCmnvl8JXAUoCdtco5/view?usp=sharing)
 
 ## Contact
 [Michael Hoyle's Linkedin](https://www.linkedin.com/in/michael-hoyle-523143226/)
