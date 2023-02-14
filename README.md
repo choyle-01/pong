@@ -2,10 +2,9 @@
 
 1. [Description](#description)
 2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Visuals](#visuals)
-5. [Contact](#contact)
-6. [Acknowledgements](#acknowledgements)
+3. [Visuals](#visuals)
+4. [Contact](#contact)
+5. [Acknowledgements](#acknowledgements)
 
 ---
 ## Description
@@ -14,4 +13,14 @@ This is a simple pong game made in pygames. Shows basic logic and controls allow
 ## Installation 
 To install make sure python is installed on your computer. Note that pygame does not work with python 3.11. 
 
-Once python is installed run ```Pip install``` pygame 
+Once python is installed run ```Pip install pygame ``` and everything will be set.
+
+## Visuals
+
+![Pong Game](/visuals/pong.mp4)
+
+## Contact
+[Michael Hoyle's Linkedin](https://www.linkedin.com/in/michael-hoyle-523143226/)
+
+## Ackowledgements
+I would like to acknowledge Clear Code on YouTube for the concept.
